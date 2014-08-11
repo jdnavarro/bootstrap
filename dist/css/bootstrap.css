@@ -1229,11 +1229,11 @@ ol ol {
   margin-bottom: 0;
 }
 .list-unstyled {
-  padding-left: 25px;
+  padding-left: 0;
   list-style: none;
 }
 .list-inline {
-  padding-left: 25px;
+  padding-left: 0;
   margin-left: -5px;
   list-style: none;
 }
